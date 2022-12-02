@@ -1,0 +1,13 @@
+{:logseq-journals-calendar {:version "0.10.5", :repo "xyhp915/logseq-journals-calendar", :effect false, :theme false}
+ :logseq-tabs {:version "v1.18.1", :repo "pengx17/logseq-plugin-tabs", :effect true, :theme false}
+ :logseq-agenda {:version "v2.12.0", :repo "haydenull/logseq-plugin-agenda", :effect true, :theme false}
+ :logseq-mark-map {:version "v0.3.11", :repo "vipzhicheng/logseq-plugin-mark-map", :effect false, :theme false}
+ :logseq-bullet-threading {:version "v1.1.1", :repo "pengx17/logseq-plugin-bullet-threading", :effect false, :theme false}
+ :logseq-tags {:version "v0.1.2", :repo "gidongkwon/logseq-plugin-tags", :effect false, :theme false}
+ :logseq-markdown-table {:version "v1.7.0", :repo "haydenull/logseq-plugin-markdown-table", :effect false, :theme false}
+ :logseq-todo-master {:version "v1.10.3", :repo "pengx17/logseq-plugin-todo-master", :effect false, :theme false}
+ :logseq-link-preview {:version "v2.2.9", :repo "pengx17/logseq-plugin-link-preview", :effect true, :theme false}
+ :logseq-kanban-plugin {:version "v2.7.3", :repo "hkgnp/logseq-kanban-plugin", :effect false, :theme false}
+ :logseq-todo-plugin {:version "v1.12.1", :repo "ahonn/logseq-plugin-todo", :effect true, :theme false}
+ :logseq-calendars-plugin {:version "2.2.2", :repo "sawhney17/logseq-calendars-plugin", :effect true, :theme false}
+ :logseq-pomodoro-timer {:version "1.0.1", :repo "sawhney17/logseq-pomodoro-plugin", :effect false, :theme false}}

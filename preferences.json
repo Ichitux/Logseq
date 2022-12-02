@@ -1,0 +1,19 @@
+{
+  "theme": null,
+  "themes": {
+    "mode": "light",
+    "light": null,
+    "dark": null
+  },
+  "externals": [],
+  "pinnedToolbarItems": [
+    "logseq-journals-calendar:goto-today",
+    "logseq-agenda:logseq-plugin-agenda",
+    "logseq-journals-calendar:open-calendar",
+    "logseq-pomodoro-timer:pomodoro_pause",
+    "logseq-calendars-plugin:open-calendar2",
+    "logseq-pomodoro-timer:pomodoro_reset",
+    "logseq-pomodoro-timer:pomodoro_timer",
+    "logseq-tags:tags-plugin-open"
+  ]
+}
